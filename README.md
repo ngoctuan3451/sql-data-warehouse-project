@@ -114,4 +114,4 @@ Hi there! I'm **Tuan Ngoc Chu**, also known as **Nick Chu**. I’m an IT profess
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/nick-chu-83a800287/)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/nick-chu-83a800287/)
